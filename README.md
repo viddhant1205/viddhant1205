@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Gourav Kumar
-- 👀 I’m Specializes in DevOps
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Final Year Student || Specialization In DevOps || (Git, Linux, Bash Scripting, (AWS) Cloud, Jenkins, Docker, Kubernetes, Terraform, Argo-CD, Python)
+
 
 <!---
 viddhant1205/viddhant1205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
